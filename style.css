@@ -81,4 +81,7 @@ input[type="text"] {
   input[type="text"] {
     width: 150px;
   }
+  #undo {
+    margin-bottom: 20px;
+  }
 }
